@@ -1,3 +1,4 @@
 This is Shared by all users.
 I am user1 adding second line in this file...
 I am user2 adding next line.
+Conflict line by user2.
