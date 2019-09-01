@@ -14,4 +14,13 @@ Reset Demo.
 	b)add file in stage.
  	c)Use git reset to unstage.
 	d)Use checkout filename to reset Working directory.
-
+3) Local Reset :
+	a)Change data in File from Working directory.
+	b)add file in stage
+	c)Commit file in local repository
+	d)Reset from local to stage:
+		git reset origin
+	e)Reset from local to Working directory(No change in source file):
+		git reset --soft origin/head
+	f)Reset from local to working directory(Reset all)
+		git reset --hard origin/head
