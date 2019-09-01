@@ -3,3 +3,4 @@ I am user1 adding second line in this file...
 I am user2 adding next line.
 Conflict line by user1.
 Conflict line by user2.
+Last line by user1.
