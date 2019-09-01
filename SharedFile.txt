@@ -4,3 +4,14 @@ I am user2 adding next line.
 Conflict line by user1.
 Conflict line by user2.
 Last line by user1.
+
+Reset Demo.
+1) Working Directory Reset :
+	a)Change data in File from Working directory.
+	b)using checkout filename, we can reset Working directory.
+2) Stage Reset :
+	a)Change data in File from Working directory.
+	b)add file in stage.
+ 	c)Use git reset to unstage.
+	d)Use checkout filename to reset Working directory.
+
